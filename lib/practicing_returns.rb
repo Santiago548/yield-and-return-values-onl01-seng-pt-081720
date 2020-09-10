@@ -9,5 +9,5 @@ def hello(array)
   end
   binding.pry
   collection
-  
+
 end
